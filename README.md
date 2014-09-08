@@ -1,29 +1,5 @@
-# README #
+# Strategi Agoritma #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Strategi Algoritma merupakan mata kuliah yang membahas bagaimana membentuk / 
+mengembangkan perintah pemrograman untuk menyelesaikan masalah secara efektif.
+Poin penting yang didapat setelah menguasai algoritma adalah mengetahui cara menghitung kompleksitas suatu algoritma dan mengetahui beberapa metode untuk mengoptimalkannya.
