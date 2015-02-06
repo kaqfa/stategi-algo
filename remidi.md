@@ -1,8 +1,8 @@
 ### Instruksi Remidi Matkul Strategi Algoritma
 
 - Tidak perlu melakukan pertemuan di kelas, karena kita sudah melakukannya sebanyak lebih dari 10x dalam 1 semester.
-- Cukup duduk tenang di rumah/kos dan kerjakan tugas berikut.
-- Buatlah sebuah program yang mengimplementasikan konsep backtracking untuk melakukan coloring pada sebuah graph. Lebih jelasnya:
+- Cukup duduk tenang di rumah/kos dan kerjakan tugas mandiri berikut.
+- Buatlah sebuah program (dengan menggunakan bahasa pemrograman apapun) yang mengimplementasikan konsep backtracking untuk melakukan coloring pada sebuah graph. Lebih jelasnya:
     - Buatlah sebuah graph yang terdiri dari minimal 20 buah node, dan minimal 60 buah unweighted & undirected edge.
     - Tiap node menyimpan data "nama node" (String) dan "color" (String default *null*)
     - Kemungkinan color yang boleh dipakai adalah 7 warna pelangi
